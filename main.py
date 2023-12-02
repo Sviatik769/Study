@@ -12,6 +12,10 @@ print(number1 / number2)
 
 parne = int(input("Напишіть число:"))
 
-if:
+if
+
+# Задача 4
+
+list = int(input("Напишіть список чисел:"))
 
 
